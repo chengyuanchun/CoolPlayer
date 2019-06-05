@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/pausehoverpressed.png</file>
+        <file>res/pausenormal.png</file>
+        <file>res/playhoverpressed.png</file>
+        <file>res/playnormal.png</file>
+        <file>res/stophoverpressed.png</file>
+        <file>res/stopnormal.png</file>
+        <file>res/qcsound.png</file>
+        <file>res/moon.png</file>
+        <file>res/star.png</file>
+        <file>res/prev.png</file>
+        <file>res/prev-hover.png</file>
+        <file>res/settings-hover.png</file>
+        <file>res/settings.png</file>
+        <file>res/snowflake.png</file>
+        <file>res/finalfrontier.png</file>
+        <file>qm/coolplayer_cn.qm</file>
+        <file>res/fuzzydot.png</file>
+        <file>res/music_logo.png</file>
+        <file>res/music_2.png</file>
+        <file>res/background.jpg</file>
+        <file>res/sparkleSize.png</file>
+        <file>res/main.png</file>
+    </qresource>
+</RCC>

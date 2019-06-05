@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/view/main.qml</file>
+        <file>src/view/FramelessWindow.qml</file>
+        <file>src/view/MiniButton.qml</file>
+        <file>src/view/MaxButton.qml</file>
+        <file>src/view/CloseButton.qml</file>
+        <file>src/view/Droper.qml</file>
+        <file>src/view/CoverFlow.qml</file>
+        <file>src/view/MusicView.qml</file>
+        <file>src/view/ContentView.qml</file>
+        <file>src/view/PlaylistView.qml</file>
+        <file>src/view/PlayControlView.qml</file>
+        <file>src/view/ImageButton.qml</file>
+        <file>src/view/DisplayView.qml</file>
+        <file>src/view/CircleImage.qml</file>
+        <file>src/view/PureBackground.qml</file>
+        <file>src/view/StarBackground.qml</file>
+        <file>src/view/SelectBackgroundView.qml</file>
+        <file>src/view/SnowBackground.qml</file>
+        <file>src/view/UniverseBackground.qml</file>
+        <file>src/view/CoverView.qml</file>
+        <file>src/view/ParticleBackground.qml</file>
+        <file>src/view/WelcomeView.qml</file>
+        <file>src/view/WelcomeView2.qml</file>
+        <file>src/view/StoneBackground.qml</file>
+    </qresource>
+</RCC>
